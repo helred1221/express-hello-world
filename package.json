@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/helred1221/express-hello-world/issues"
   },
-  "homepage": "https://github.com/helred1221/express-hello-world#readme"
+  "homepage": "https://github.com/helred1221/express-hello-world#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
 }
